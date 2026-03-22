@@ -1,0 +1,39 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+Packages/
+xcuserdata/
+DerivedData/
+
+# App bundle (built artifact)
+*.app
+
+# Environment & secrets
+.env
+*.env.*
+
+# IDE
+.idea/
+.vscode/
+*.xcworkspace
+*.xcuserdata
+
+# Agent infrastructure (not part of the app)
+agent_tools/
+agent_logs/
+.claude/
+CLAUDE.md
+*.command
+docs/
+
+# Misc
+*.log
+*.swp
+*~
