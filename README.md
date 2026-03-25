@@ -1,5 +1,9 @@
 # Whisper by Mr D
 
+<p align="center">
+  <img src="assets/cover.png" width="700" alt="Whisper Voice">
+</p>
+
 A native macOS voice-to-text application with global hotkey capture, AI-powered transcription, and smart text optimization. Press **Option+X** anywhere, speak, and your words appear as text — instantly copied to your clipboard.
 
 ![macOS](https://img.shields.io/badge/macOS-13%2B-blue)
